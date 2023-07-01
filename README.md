@@ -1,6 +1,6 @@
 # The Kelly Criterion
 
-> This is the accompanying Jupyter Notebook for this [blog](https://blog.karanchawla.me/2020/10/21/the-kelly-criterion-part-2) post.
+> This is the accompanying Jupyter Notebook for this [blog](https://blog.karanc.me/2020/10/21/the-kelly-criterion-part-2) post.
 
 When investing, we spend plenty of time thinking about which securities should we buy but we rarely wonder how much money should we allocate in each asset.
 
